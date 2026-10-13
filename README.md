@@ -107,9 +107,8 @@ Built an emergency response simulation dashboard with real-time visualization an
 - Integrated LLM-based alert filtering and BFS-based evacuation routing.
 - Validated evacuation logic across 15,604 simulated scenarios.
 - Delivered a working prototype during a 48-hour hackathon, earning 3rd place.
-- 
-🌐 [Live Demo](https://coastal-command-coral.vercel.app) ·
-💻 [Source Code](https://github.com/liuyutongmilla/disaster-watch)
+  
+🌐 [Live Demo](https://coastal-command-coral.vercel.app) · [Source Code](https://github.com/liuyutongmilla/disaster-watch)
 
 ---
 
