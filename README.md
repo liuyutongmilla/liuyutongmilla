@@ -84,7 +84,7 @@ Co-developed a real-time analytics platform for streaming Wikipedia activity and
 - Reduced p95 latency from 353 ms to 87 ms across 1,000 simulated clients.
 - Optimized indexed aggregation over 5M+ events, reducing average query latency from 273 ms to 5.5 ms.
 
-[View Repository](https://github.com/JiajunWang23/realtime-analytics-dashboard)
+🔗 [Live Demo](https://realtime-analytics-dashboard.com/) · [Source Code](https://github.com/JiajunWang23/realtime-analytics-dashboard)
 
 ### 🔍 AI Job Matching Platform
 
