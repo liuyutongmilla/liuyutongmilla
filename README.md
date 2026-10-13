@@ -1,7 +1,6 @@
 # Hi there, I'm Yutong Liu 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&pause=1000&color=2F80ED&width=780&lines=MS+Computer+Science+%40+Northeastern+University;Backend+Engineering+%7C+Distributed+Systems;AI+Agents+%7C+Cloud+Infrastructure;Building+Scalable+and+Reliable+Systems)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&size=22&duration=3000&pause=1000&color=2F80ED&width=850&lines=MS+Computer+Science+at+Northeastern+University;Backend+Engineering+and+Distributed+Systems;AI+Agents+and+Cloud+Infrastructure;Building+Scalable+and+Reliable+Systems)](https://git.io/typing-svg)
 ---
 
 ## 👩‍💻 About Me
