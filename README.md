@@ -96,7 +96,7 @@ Built an AI-powered platform combining agent orchestration, hybrid retrieval, an
 - Improved relevant-job Recall@10 from 72% to 86% using Milvus, BM25, and reciprocal rank fusion.
 - Increased resume extraction accuracy from 84% to 93% through multi-agent extraction and Pydantic validation.
 
-### 🏆 Emergency Response Simulation Dashboard — 3rd Place
+### 🏆 Hackathon Emergency Response Simulation Dashboard — 3rd Place
 
 **Defense Tech Jam | 48-Hour Hackathon**
 
